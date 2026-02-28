@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Sunday Best",
+  "base_artist": "Surfaces",
+  "createdAt": "2026-02-28T11:15:46.841292Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Starsailor",
+      "has_synced": false,
+      "path": "select/01_Sunday_Best_Starsailor.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Princess Nokia feat. Onyx Collective & OSHUN",
+      "has_synced": false,
+      "path": "select/02_Sunday_Best_Princess_Nokia_feat._Onyx_Collective_&_OSHUN.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sunday Best (feat. Onyx Collective & OSHUN)",
+      "artist": "Princess Nokia",
+      "has_synced": false,
+      "path": "select/03_Sunday_Best_(feat._Onyx_Collective_&_OSHUN)_Princess_Nokia.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ecos na Catedral (Sunday Best Remix)",
+      "artist": "Madredeus",
+      "has_synced": false,
+      "path": "select/04_Ecos_na_Catedral_(Sunday_Best_Remix)_Madredeus.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Starsailor",
+      "has_synced": false,
+      "path": "select/05_Sunday_Best_Starsailor.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Augustana",
+      "has_synced": true,
+      "path": "select/06_Sunday_Best_Augustana.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sunday Best (Live)",
+      "artist": "Augustana",
+      "has_synced": false,
+      "path": "select/07_Sunday_Best_(Live)_Augustana.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Bobbie Gentry",
+      "has_synced": false,
+      "path": "select/08_Sunday_Best_Bobbie_Gentry.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Surfaces",
+      "has_synced": true,
+      "path": "select/09_Sunday_Best_Surfaces.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Surfaces",
+      "has_synced": true,
+      "path": "select/10_Sunday_Best_Surfaces.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Surfaces",
+      "has_synced": true,
+      "path": "select/11_Sunday_Best_Surfaces.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Surfaces",
+      "has_synced": true,
+      "path": "select/12_Sunday_Best_Surfaces.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sunday Best (Live)",
+      "artist": "Surfaces",
+      "has_synced": false,
+      "path": "select/13_Sunday_Best_(Live)_Surfaces.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sunday Best - Live",
+      "artist": "Surfaces",
+      "has_synced": false,
+      "path": "select/14_Sunday_Best_-_Live_Surfaces.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "You Love Her Coz She's Dead",
+      "has_synced": false,
+      "path": "select/15_Sunday_Best_You_Love_Her_Coz_She's_Dead.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Pomplamoose",
+      "has_synced": true,
+      "path": "select/16_Sunday_Best_Pomplamoose.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sunday Best",
+      "artist": "Home Free",
+      "has_synced": true,
+      "path": "select/17_Sunday_Best_Home_Free.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sunday Best",
+      "artist": "Surfaces",
+      "has_synced": false,
+      "path": "select/pl_01_Sunday_Best_Surfaces.txt"
+    }
+  ]
+}
